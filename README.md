@@ -1,5 +1,7 @@
 # Bandeau de navigation pour Grist
 
+Widget créé par Nicolas Schena (au carré). Dépôt d'origine : [github.com/NicolasSchena-aucarre/Bandeau_Generique](https://github.com/NicolasSchena-aucarre/Bandeau_Generique)
+
 Un bandeau (titre, logo, personne connectée, menu de liens) affiché dans les widgets personnalisés d'un document
 Grist, et un configurateur pour le gérer sans toucher au code. Tout est lu dans les tables du document.
 
